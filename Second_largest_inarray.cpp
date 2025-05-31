@@ -1,3 +1,5 @@
+// LinkedIn : www.linkedin.com/in/souvik-chowdhury444411
+
 class Solution {
   public:
     int getSecondLargest(vector<int> &arr) {
